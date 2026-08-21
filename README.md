@@ -204,7 +204,9 @@ Color Assignment: [1, 2, 3, 1]
 Case #2:
 Coloring Not Possible with 2 Colors
 ```
+### Output Screenshot
 
+![image alt](coloring1.png)
 ---
 
 # 📸 Output Screenshot
@@ -292,6 +294,8 @@ python graphcoloring.py
 
 # 👨‍💻 Author
 
-**Your Name**
+**Md. Julfikar Alam**
+
+Green University of Bangladesh,
 
 Department of Computer Science and Engineering
