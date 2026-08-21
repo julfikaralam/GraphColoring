@@ -136,6 +136,7 @@ The complete implementation of GraphColoring algorithms is written in Python.
 The source code is available here:
 
 [Click here to view Python Implementation](graphcoloring.py)
+[Click here to view Python Implementation](input.txt)
 
 ---
 # 💻 Implementation Details
