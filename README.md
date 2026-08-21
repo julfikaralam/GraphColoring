@@ -168,18 +168,6 @@ Text File (input.txt)
 
 ---
 
-# 📂 Project Structure
-
-```
-Graph-Coloring-Backtracking
-│
-├── graphcoloring.py
-│
-├── input.txt
-│
-└── README.md
-```
-
 ---
 
 # 📥 Input Example
